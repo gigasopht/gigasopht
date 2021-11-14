@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gigasopht
+- 👀 I’m interested in Compilers  
+- 💞️ I’m looking to collaborate on keyword select in different spoken languages
+- 📫 You can reach me at benedict@gigasopht.net 
